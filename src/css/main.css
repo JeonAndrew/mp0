@@ -1,1 +1,26 @@
 /* Your CSS here. */
+.card {
+    background-color: thistle;
+    width: 675px;   
+    height: 500px;
+    padding: 20px; 
+    margin: 50px auto;
+}
+
+#picture {
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#name {
+    font-weight: bold;
+    text-align: center;
+}
+
+#linkedin {
+    display: block;
+    text-align: center;
+}
